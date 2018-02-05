@@ -1,0 +1,26 @@
+{
+  "name": "pics",
+  "version": "1.0.0",
+  "description": "Aplicativo de electron para visualizacion de imagenes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JohelCastilloV/pics.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Johel Castillo <johel.castillov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohelCastilloV/pics/issues"
+  },
+  "homepage": "https://github.com/JohelCastilloV/pics#readme",
+  "dependencies": {
+    "electron": "^1.7.12"
+  }
+}
